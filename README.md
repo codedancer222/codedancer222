@@ -16,7 +16,7 @@ class ChristopherSmith:
         self.languages = ["en_US"]
 
     def say_hi(self):
-        print("I'm glad you read my intro! Please also visit my website BrankoPoledica.com")
+        print("I'm glad you read my intro! Please also visit my website ChristopherASmith.com")
 
 
 me = ChristopherSmith()
