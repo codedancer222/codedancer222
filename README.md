@@ -7,10 +7,10 @@
 ```python
 #!/usr/bin/python
 
-class BrankoPoledica:
+class ChristopherSmith:
 
     def __init__(self):
-        self.name = "Branko Poledica"
+        self.name = "Christopher Smith"
         self.researcher = True
         self.developer = True
         self.languages = ["en_US"]
@@ -19,7 +19,7 @@ class BrankoPoledica:
         print("I'm glad you read my intro! Please also visit my website BrankoPoledica.com")
 
 
-me = BrankoPoledica()
+me = ChristopherSmith()
 me.say_hi()
 ```
 
