@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello! I'm Branko Poledica, a dedicated expert and passionate programmer specializing in AIOT (Artificial Intelligence of Things). 
-<img align="right" src="https://komarev.com/ghpvc/?username=brankopoledic&color=green" alt="brankopoledic"/> 
+<img align="right" src="https://komarev.com/ghpvc/?username=codedancer222&color=green" alt="codedancer222"/> 
 ![header](https://user-images.githubusercontent.com/48083659/134559264-9be6cca8-67d5-4cc4-8357-6712b97cfacb.jpg)
 ### I will introduce myself by code:
 
@@ -73,18 +73,18 @@ me.say_hi()
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brankopoledic&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brankopoledic&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brankopoledic&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=codedancer222&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codedancer222&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedancer222&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brankopoledic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=codedancer222&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Branko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brankopoledic&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/brankopoledic/github-readme-activity-graph)
+[![Branko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codedancer222&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/codedancer222/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brankopoledic&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=codedancer222&icon=5&color=3)](https://visitcount.itsvg.in)
