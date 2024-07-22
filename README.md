@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Branko Poledica, a dedicated expert and passionate programmer specializing in AIOT (Artificial Intelligence of Things). 
+👋 Hello! I'm Christopher A Smith, a dedicated expert and passionate programmer specializing in AIOT (Artificial Intelligence of Things). 
 <img align="right" src="https://komarev.com/ghpvc/?username=codedancer222&color=green" alt="codedancer222"/> 
 ![header](https://user-images.githubusercontent.com/48083659/134559264-9be6cca8-67d5-4cc4-8357-6712b97cfacb.jpg)
 ### I will introduce myself by code:
