@@ -7,19 +7,19 @@
 ```python
 #!/usr/bin/python
 
-class ChristopherSmith:
+class AustinAdams:
 
     def __init__(self):
-        self.name = "Christopher Smith"
+        self.name = "Austin Adams"
         self.researcher = True
         self.developer = True
         self.languages = ["en_US"]
 
     def say_hi(self):
-        print("I'm glad you read my intro! Please also visit my website ChristopherASmith.com")
+        print("I'm glad you read my intro! Please also visit my website AustinAdams.com")
 
 
-me = ChristopherSmith()
+me = AustinAdams()
 me.say_hi()
 ```
 
